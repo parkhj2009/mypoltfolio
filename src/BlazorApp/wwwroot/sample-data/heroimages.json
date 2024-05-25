@@ -1,17 +1,17 @@
 [
   {
-    "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "name": "고양이1",
+    "src": "images/cat-8410502_1280.jpg",
+    "alt": "화분 옆 고양이"
   },
   {
-    "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "name": "고양이2",
+    "src": "images/cat-8415620_1280.jpg",
+    "alt": "책 위 고양이"
   },
   {
-    "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "name": "고양이3",
+    "src": "images/box-8702500_1280",
+    "alt": "상자속 고양이"
   }
 ]
