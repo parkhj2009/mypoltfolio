@@ -1,17 +1,17 @@
 [
   {
-    "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "name": "name",
+    "src": "images/web-design-2906159_1280.jpg",
+    "alt": "desktop with books and laptop"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "src": "images/code-1839406_1280.jpg",
+    "alt": "coding"
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "src": "images/coding-924920_1280.jpeg",
+    "alt": "coding"
   }
 ]
