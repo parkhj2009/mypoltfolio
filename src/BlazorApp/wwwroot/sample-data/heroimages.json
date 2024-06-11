@@ -1,17 +1,17 @@
 [
   {
-    "name": "고양이1",
-    "src": "images/cat-8410502_1280.jpg",
-    "alt": "화분 옆 고양이"
+    "name": "name",
+    "src": "images/web-design-2906159_1280.jpg",
+    "alt": "desktop with books and laptop"
   },
   {
-    "name": "고양이2",
-    "src": "images/cat-8415620_1280.jpg",
-    "alt": "책 위 고양이"
+    "name": "about",
+    "src": "images/code-1839406_1280.jpg",
+    "alt": "coding"
   },
   {
-    "name": "고양이3",
-    "src": "images/box-8702500_1280",
-    "alt": "상자속 고양이"
+    "name": "portfolio",
+    "src": "images/coding-924920_1280.jpeg",
+    "alt": "coding"
   }
 ]
